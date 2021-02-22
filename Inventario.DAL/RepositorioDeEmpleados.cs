@@ -25,5 +25,10 @@ namespace Inventario.DAL
         {
             throw new NotImplementedException();
         }
+
+        public bool Update(string Id, Empleado entidadModificada)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
